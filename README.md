@@ -1,5 +1,8 @@
-## Interview questions for PHP, Laravel & MySQL 🔥🔥🔥
-
+## Interview Questions For Developers 🔥🔥🔥
+##### In This Page  👇
+[Questions For PHP](#interview-questions-for-php)  
+[Questions For MySQL](#interview-questions-for-mysql)  
+[Interview Questions for Laravel:](#interview-questions-for-laravel)  
 ________________________________________________________________
 ### Interview Questions for PHP: 
 #### -2: What is method overriding in PHP ?
